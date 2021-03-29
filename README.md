@@ -6,7 +6,7 @@ A website developed for a marketing agency
 
 This website was code refactored to be more inline with accessibility standards
 
-![A screenshot of the web page](./Docs/assets/images/Horiseon_screenshot.png)
+![A screenshot of the web page](./assets/images/Horiseon_screenshot.png)
 
 ## Authors
 
